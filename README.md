@@ -2,7 +2,7 @@
 
 Disciplina: PCS5024 - Aprendizado Estatístico (2022)
 
-Tarefa de classificação sobre o dataset Adult disponível no repositório UCL ou Kaggle.
+Tarefa de classificação sobre o dataset Adult disponível no repositório UCI ou Kaggle.
 
 Enunciado:
 
